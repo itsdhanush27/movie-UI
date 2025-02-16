@@ -1,0 +1,89 @@
+
+#btn{
+    border: none;
+    background-color: rgb(0, 110, 255);
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+    width: 120px;
+    margin-top: 50px;
+    margin-left: 50%;
+}
+#btn:hover{
+    background-color: #ffffff;
+    color: rgb(0, 110, 255)
+}
+.signup{
+    width: 400px;
+    height: 528px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    
+}
+.userName{
+    padding-right: 11%;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.email{
+    padding-right: 4%; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.password{
+    padding-right: 12%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.em{
+    padding-top: 30px;
+}
+.un{
+    padding-top:40px;
+}
+.pass{
+    padding-top: 40px;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+p{
+    margin-left: 20%;
+}
+.phonenumber{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-right: 3%;
+}
+body{
+    background-color: #1f1d1d;
+
+}
+.main{
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 800px;
+    margin: auto;
+    margin-top: 5%;
+    height: 550px;
+    position: relative;
+}
+h1{
+    padding-top: 30px;
+}
+h6{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.img{
+    height:550px;
+    width:380px;
+    border-radius: 10px;
+
+    content:url(https://img.freepik.com/free-vector/cute-swag-polar-bear-with-hat-gold-chain-necklace-cartoon-illustration-flat-cartoon-style_138676-2719.jpg?w=2000);​
+}
+.float-main{ 
+    float: left ; 
+    width : 50%; 
+}
+.pd{
+    border-style: none;
+    outline: none;
+}
